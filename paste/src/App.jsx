@@ -1,4 +1,4 @@
-import React from 'react'
+
 import Home from './components/Home';
 import Paste from './components/Paste';
 import ViewPaste from './components/ViewPaste';
